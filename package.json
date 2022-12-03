@@ -1,0 +1,22 @@
+{
+  "name": "openai_gettingstarted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3tomcha/openai_gettingstarted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3tomcha/openai_gettingstarted/issues"
+  },
+  "homepage": "https://github.com/3tomcha/openai_gettingstarted#readme",
+  "dependencies": {
+    "openai": "^3.1.0"
+  }
+}
